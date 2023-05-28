@@ -1,4 +1,4 @@
-This is a TODO [Next.js](https://nextjs.org/) created as a follow up of [this video](https://www.youtube.com/watch?v=NgayZAuTgw) to experiment
+This is a TODO [Next.js](https://nextjs.org/) created as a follow up of [this video](https://www.youtube.com/watch?v=NgayZAuTgwM) to experiment
 with the new Next JS 13.4 server side components features
 
 ## Getting Started

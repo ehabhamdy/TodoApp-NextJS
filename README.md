@@ -1,8 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a TODO [Next.js](https://nextjs.org/) created as a follow up of [this video](https://www.youtube.com/watch?v=NgayZAuTgw) to experiment
+with the new Next JS 13.4 server side components features
 
 ## Getting Started
 
-First, run the development server:
+First, run,
+
+```
+npx prisma db push
+```
+
+Then run the development server:
 
 ```bash
 npm run dev
